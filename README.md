@@ -22,7 +22,7 @@ If you'd like to learn more about the Web Animations API, try these resources-
 
 * Read articles on Web Fundamentals-
   * [Web Animations Resources](https://developers.google.com/web/updates/2015/10/web-animations-resources)
-  * [Design & UI > Animations](https://developers.google.com/web/fundamentals/look-and-feel/animations) and any other [#animations updates on Google Developers](https://developers.google.com/web/updates/tags/animations)
+  * [Design & UI > Animations](    - [ ] https://developers.google.com/web/fundamentals/design-and-ux/animations/) and any other [#animations updates on Google Developers](https://developers.google.com/web/updates/tags/animations)
 
 * Check out the [Web Animations Demos](http://web-animations.github.io/web-animations-demos/) for inspiration, hosted [on GitHub](https://github.com/web-animations/web-animations-demos)
 
